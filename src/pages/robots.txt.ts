@@ -1,5 +1,5 @@
-import type { APIRoute } from "astro";
 import { url } from "@utils/url-utils";
+import type { APIRoute } from "astro";
 
 const robotsTxt = `
 User-agent: *
