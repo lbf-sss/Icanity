@@ -1,9 +1,9 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Evander Liu
 
-::github{repo="saicaca/fuwari"}
+Constant Learning
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+A bilingual notebook on technology, reading, and the ideas that become clearer through practice.
+
+这是 Evander Liu 的中英双语笔记，记录技术、阅读，以及在实践中逐渐清晰的想法。
+
+[GitHub](https://github.com/lbf-sss/Icanity)
